@@ -1,0 +1,27 @@
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects {
+    color: aqua;
+}
+
+body {
+    background-color: coral;
+    color: cornflowerblue;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object {
+    color: cornsilk;
+}
+
+#result_accuracy {
+    color: darkkhaki;
+}
